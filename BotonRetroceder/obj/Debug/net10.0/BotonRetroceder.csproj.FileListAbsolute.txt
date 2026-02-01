@@ -1,0 +1,14 @@
+C:\Users\michc\Downloads\BotonRetroceder\bin\Debug\net10.0\BotonRetroceder.exe
+C:\Users\michc\Downloads\BotonRetroceder\bin\Debug\net10.0\BotonRetroceder.deps.json
+C:\Users\michc\Downloads\BotonRetroceder\bin\Debug\net10.0\BotonRetroceder.runtimeconfig.json
+C:\Users\michc\Downloads\BotonRetroceder\bin\Debug\net10.0\BotonRetroceder.dll
+C:\Users\michc\Downloads\BotonRetroceder\bin\Debug\net10.0\BotonRetroceder.pdb
+C:\Users\michc\Downloads\BotonRetroceder\obj\Debug\net10.0\BotonRetroceder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michc\Downloads\BotonRetroceder\obj\Debug\net10.0\BotonRetroceder.AssemblyInfoInputs.cache
+C:\Users\michc\Downloads\BotonRetroceder\obj\Debug\net10.0\BotonRetroceder.AssemblyInfo.cs
+C:\Users\michc\Downloads\BotonRetroceder\obj\Debug\net10.0\BotonRetroceder.csproj.CoreCompileInputs.cache
+C:\Users\michc\Downloads\BotonRetroceder\obj\Debug\net10.0\BotonRetroceder.dll
+C:\Users\michc\Downloads\BotonRetroceder\obj\Debug\net10.0\refint\BotonRetroceder.dll
+C:\Users\michc\Downloads\BotonRetroceder\obj\Debug\net10.0\BotonRetroceder.pdb
+C:\Users\michc\Downloads\BotonRetroceder\obj\Debug\net10.0\BotonRetroceder.genruntimeconfig.cache
+C:\Users\michc\Downloads\BotonRetroceder\obj\Debug\net10.0\ref\BotonRetroceder.dll
